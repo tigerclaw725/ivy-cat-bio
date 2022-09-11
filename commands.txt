@@ -1,0 +1,26 @@
+pwd
+print working directory, shows you current path
+
+ls
+list folders and files in current location
+
+cd
+change directory 
+
+mkdir
+make a directory (folder)
+
+touch
+makes file
+
+HTML - content
+CSS - style
+JavaScript - interactivity/programs 
+
+Heading
+h1 can only have 1
+h2-h6 can have as many as you want
+
+ctrl z- undo command 
+
+<!-- note to yourself -->
