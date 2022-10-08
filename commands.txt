@@ -7,6 +7,18 @@ list folders and files in current location
 cd
 change directory 
 
+div
+divider
+
+max-width 
+helps for responsive
+
+margins- outter spacing
+margin top right bottom left
+
+padding
+all 4 sides inside the box
+
 mkdir
 make a directory (folder)
 
@@ -23,7 +35,7 @@ h2-h6 can have as many as you want
 
 ctrl z- undo command 
 
-<!-- note to yourself -->
+<!-- note to yourself --> highlight, then ctrl / to make as a comment- both HTML, CSS  
 
 to go up in code lines, hit up arrow key and it will fill in for you
 
